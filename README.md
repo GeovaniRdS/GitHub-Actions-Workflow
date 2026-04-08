@@ -1,5 +1,3 @@
-# GitHub-Actions-Workflow
-
 # 🌐 GitHub Pages Deployment Workflow
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
@@ -34,3 +32,7 @@ O arquivo `.github/workflows/deploy.yml` está configurado para:
 │   └── deploy.yml      # Configuração do CI/CD
 ├── index.html          # Site estático principal
 └── README.md           # Documentação do projeto
+```
+
+## 🎯 Contexto do Projeto
+Este projeto foi desenvolvido como parte do caminho de aprendizado da [[roadmap.sh](https://roadmap.sh/devops/projects)](https://roadmap.sh/projects/github-actions-deployment-workflow), focado em desafios reais de **DevOps**. O objetivo é consolidar conhecimentos em automação de tarefas, manipulação de fluxos de dados no Linux e monitorização de recursos.
